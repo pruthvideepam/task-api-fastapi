@@ -130,17 +130,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 > Built with ❤️ by [Pruthvi Deepam](https://github.com/yourusername)
-
-````
-
----
-
-### ✅ What to do next?
-
-1. Save this as `README.md` inside your repo folder.
-2. Commit and push:
-```bash
-git add README.md
-git commit -m "Update README with badges and curl examples"
-git push
-````

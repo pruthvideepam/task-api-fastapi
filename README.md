@@ -129,4 +129,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Built with ❤️ by [Pruthvi Deepam](https://github.com/yourusername)
+> Built with ❤️ by [Pruthvi Deepam](https://github.com/pruthvideepam)
